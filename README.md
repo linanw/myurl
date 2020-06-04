@@ -9,7 +9,7 @@ $ docker run -d -v /log/myurl:/log/ -p 8080:8080 linanw/myurl
 
 \<your domain or hostname\>:8080/\<any tag name\>?\<url to go with https:// or http://\>
 
-e.g http://linanw.me/from_github?youtu.be/IT9c38lLEjc
+e.g https://linanw.me/from_github?youtu.be/IT9c38lLEjc
 
 ## Log
 
