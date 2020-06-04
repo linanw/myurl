@@ -1,5 +1,5 @@
 # myurl
-A simple url redirector base python 3
+A simple url redirector based on python 3
 
 ## Deply via Docker
 
